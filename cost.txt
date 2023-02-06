@@ -1,4 +1,4 @@
-Water 10
+Water 100
 Milk 10
 Sugar 5
 Tea Powder 2
